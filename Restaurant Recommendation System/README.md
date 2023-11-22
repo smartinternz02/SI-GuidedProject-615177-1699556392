@@ -21,7 +21,7 @@ Navigate to the Project Directory:
 
 bash
 Copy code
-cd Project\ Development\ Phase
+cd Project Development Phase
 Run the Application:
 
 bash
